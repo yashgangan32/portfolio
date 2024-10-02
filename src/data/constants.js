@@ -483,7 +483,7 @@ export const projects = [
     date: "Nov 2023 - Dec 2023",
     description:"PlantPulse is an advanced plant disease Detection app designed to assist farmers and researchers in identifying plant diseases from images. By leveraging various Convolutional Neural Networks (CNN) and transfer learning, PlantPulse delivers highly accurate predictions for a wide range of plant diseases.",
     image:plantpulse,
-    tags: ["Tensorflow, keras, CNN, Transfer Learning, Streamlit, openCV, python"],
+    tags: ["Tensorflow", "keras", "CNN", "Transfer Learning", "Streamlit", "openCV", "python"],
     category: "other",
     github: "https://github.com/yashgangan32/PlantPulse",
     webapp: "https://huggingface.co/spaces/YashGangan99/PlantPulse",
