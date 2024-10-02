@@ -32,6 +32,7 @@ import figma from "../images/figma.png"
 import cso from "../images/cso.png"
 import node from "../images/node.png"
 import mysql from "../images/mysql.png"
+import plantpulse from '../images/plantpulse.png'
 export const Bio = {
   name: "Yash Gangan",
   roles: [
@@ -475,6 +476,17 @@ export const projects = [
     tags: ["C++"],
     category: "other",
     github: "https://github.com/yashgangan32/BigInt",
+  },
+  {
+    id: 13,
+    title: "PlantPulse",
+    date: "Nov 2023 - Dec 2023",
+    description:"PlantPulse is an advanced plant disease Detection app designed to assist farmers and researchers in identifying plant diseases from images. By leveraging various Convolutional Neural Networks (CNN) and transfer learning, PlantPulse delivers highly accurate predictions for a wide range of plant diseases.",
+    image:plantpulse,
+    tags: ["Tensorflow, keras, CNN, Transfer Learning, Streamlit, openCV, python"],
+    category: "other",
+    github: "https://github.com/yashgangan32/PlantPulse",
+    webapp: "https://huggingface.co/spaces/YashGangan99/PlantPulse",
   },
 
   
